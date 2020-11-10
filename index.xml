@@ -5,14 +5,15 @@
     <link>https://kckjn97.github.io/</link>
     <description>Recent content on Eunjae&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://kckjn97.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2020 05:34:16 +0000</lastBuildDate><atom:link href="https://kckjn97.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>About Me</title>
       <link>https://kckjn97.github.io/posts/about-me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2020 05:34:16 +0000</pubDate>
       
       <guid>https://kckjn97.github.io/posts/about-me/</guid>
-      <description>About Me </description>
+      <description>About Me Publications First-author  (Under Review) Uncertain Graph Analysis Framework, 2020 &amp;ldquo;Pre-select static caching and neighborhood ordering for bfs-like algorithms on disk-based graph engines&amp;rdquo;, Eunjae Lee, Junghyn Kim, Keunhak Lim, Sam H. Noh, Jiwon Seo, USENIX Annual Technical Conference (ATC), 2019 &amp;ldquo;SSD caching to overcome small write problem of disk-based RAID in enterprise environments&amp;rdquo;, Eunjae Lee, Yongseok Oh, and Donghee Lee, The 30th ACM/SIGAPP Symposium On Applied Computing (SAC), 2015 &amp;ldquo;LeavO Cache: SSD cache overcomming small write problem of RAID by keeping old data&amp;rdquo;, Eunjae Lee, Yongseok Oh, Jongmoo Choi, Donghee Lee, and Sam H.</description>
     </item>
     
   </channel>

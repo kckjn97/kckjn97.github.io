@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Nov 2020 05:34:16 +0000</lastBuildDate><atom:link href="https://kckjn97.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
-      <link>https://kckjn97.github.io/posts/about-me/</link>
+      <title>Profile</title>
+      <link>https://kckjn97.github.io/posts/profile/</link>
       <pubDate>Tue, 10 Nov 2020 05:34:16 +0000</pubDate>
       
-      <guid>https://kckjn97.github.io/posts/about-me/</guid>
-      <description>About Me Publications First-author  (Under Review) Uncertain Graph Analysis Framework, 2020 &amp;ldquo;Pre-select static caching and neighborhood ordering for bfs-like algorithms on disk-based graph engines&amp;rdquo;, Eunjae Lee, Junghyn Kim, Keunhak Lim, Sam H. Noh, Jiwon Seo, USENIX Annual Technical Conference (ATC), 2019 &amp;ldquo;SSD caching to overcome small write problem of disk-based RAID in enterprise environments&amp;rdquo;, Eunjae Lee, Yongseok Oh, and Donghee Lee, The 30th ACM/SIGAPP Symposium On Applied Computing (SAC), 2015 &amp;ldquo;LeavO Cache: SSD cache overcomming small write problem of RAID by keeping old data&amp;rdquo;, Eunjae Lee, Yongseok Oh, Jongmoo Choi, Donghee Lee, and Sam H.</description>
+      <guid>https://kckjn97.github.io/posts/profile/</guid>
+      <description>Profile Eunjae Lee (이은재)  Software Developer / Researcher UNIST Ph.D candidate Email: kckjn97@gmail.com  Technical Skills  Programming Language  Major: C/C++, Python Minor: Java, PHP, Javascript, Shell   Web  Frontend: HTML, CSS, Bootstrap Backend: Django, Node.js   Linux kernel  Device Mapper, NVMe Driver, VFS   Others  Git, Docker, Hadoop, FUSE (User Filesystem)    Education  UNIST(울산과기원), Computer Engineering(컴퓨터공학과), Ph.D candidate, Now University of Seoul(서울시립대), Comptuer science(컴퓨터과학부), Master, 2015 University of Seoul(서울시립대), Computer science(컴퓨터과학부), Bachelor, 2011 Cheongju-daesung high school, 2006  Publications By first author  (Under Review) Uncertain Graph Analysis Framework, 2020 &amp;ldquo;Pre-select static caching and neighborhood ordering for bfs-like algorithms on disk-based graph engines&amp;rdquo;, Eunjae Lee, Junghyn Kim, Keunhak Lim, Sam H.</description>
     </item>
     
   </channel>

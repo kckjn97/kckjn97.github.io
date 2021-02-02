@@ -6,14 +6,41 @@
     <description>Recent content on Eunjae&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2020 05:34:16 +0000</lastBuildDate><atom:link href="https://kckjn97.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Feb 2021 11:33:46 +0000</lastBuildDate><atom:link href="https://kckjn97.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project</title>
+      <link>https://kckjn97.github.io/posts/project/</link>
+      <pubDate>Tue, 02 Feb 2021 11:33:46 +0000</pubDate>
+      
+      <guid>https://kckjn97.github.io/posts/project/</guid>
+      <description>Project 깃허브 업데이트 모니터링 시스템 개발  발주처: 코박(cobak.co.kr) 역할: Python 개발 기간: 2018.02 ~ 2018.02 참여인원: 1명 내용  등록된 Github 저장소들의 코드 수정 여부를 모니터링 하는 시스템. Crontab과 Github API등을 이용해서 정해진 시간마다 Github 저장소들의 정보를 읽어와서 DB에 저장. 웹을 통해서 Github 저장소들을 관리할 수 있도록 Django Admin과 연동하고 Command 추가.   역할: 개발 전부문  트위터 이벤트 랜딩페이지 개발  발주처: TheDream 참여인원: 1명 기간: 2015.01 ~ 2015.</description>
+    </item>
+    
+    <item>
+      <title>Publications &amp; Patents</title>
+      <link>https://kckjn97.github.io/posts/publications-patents/</link>
+      <pubDate>Fri, 18 Dec 2020 01:40:26 +0000</pubDate>
+      
+      <guid>https://kckjn97.github.io/posts/publications-patents/</guid>
+      <description>Publications &amp;amp; Patents By first author  (Under Review) Uncertain Graph Analysis Framework, 2020 &amp;ldquo;Pre-select static caching and neighborhood ordering for bfs-like algorithms on disk-based graph engines&amp;rdquo;, Eunjae Lee, Junghyn Kim, Keunhak Lim, Sam H. Noh, Jiwon Seo, USENIX Annual Technical Conference (ATC), 2019 &amp;ldquo;SSD caching to overcome small write problem of disk-based RAID in enterprise environments&amp;rdquo;, Eunjae Lee, Yongseok Oh, and Donghee Lee, The 30th ACM/SIGAPP Symposium On Applied Computing (SAC), 2015 &amp;ldquo;LeavO Cache: SSD cache overcomming small write problem of RAID by keeping old data&amp;rdquo;, Eunjae Lee, Yongseok Oh, Jongmoo Choi, Donghee Lee, and Sam H.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://kckjn97.github.io/posts/portfolio/</link>
+      <pubDate>Thu, 19 Nov 2020 05:52:32 +0000</pubDate>
+      
+      <guid>https://kckjn97.github.io/posts/portfolio/</guid>
+      <description>Portfolio  Publication &amp;amp; Patent Project Github  </description>
+    </item>
+    
     <item>
       <title>Profile</title>
       <link>https://kckjn97.github.io/posts/profile/</link>
       <pubDate>Tue, 10 Nov 2020 05:34:16 +0000</pubDate>
       
       <guid>https://kckjn97.github.io/posts/profile/</guid>
-      <description>Profile Eunjae Lee (이은재)  Software Developer / Computer Science Researcher UNIST Ph.D candidate Email: kckjn97@gmail.com  Research Interests  Graph processing system, Machine learning system Storage system, Distributed system Web development  Technical Skills  Programming Language  Major: C/C++, Python Minor: Java, PHP, Javascript, Bash Shell   Linux kernel  Device Mapper, NVMe Driver, VFS   Web  Frontend: HTML, CSS, Bootstrap Backend: Django, Node.js   Others  Git, Docker, Hadoop, Tensor Flow, FUSE (User Filesystem)    Education  UNIST (울산과기원), Computer Engineering, Ph.</description>
+      <description>Profile Eunjae Lee (이은재)  Software Developer / Computer Science Researcher UNIST Ph.D candidate Email: kckjn97@gmail.com Github: github.com/kckjn97 Publication &amp;amp; Patent  Research Interests  Graph processing system Storage Distributed system Web development  Technical Skills  C/C++  PThread Linux Libaio Boost.Asio OpenCL   Python  Django   Java  Hadoop   Linux Kernel  Device-Mapper Software RAID NVMe Driver VFS   ETC  Git Docker    Education  UNIST (울산과기원), Computer Engineering, Ph.</description>
     </item>
     
   </channel>

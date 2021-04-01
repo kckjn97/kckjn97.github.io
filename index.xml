@@ -13,7 +13,10 @@
       <pubDate>Tue, 02 Feb 2021 11:33:46 +0000</pubDate>
       
       <guid>https://kckjn97.github.io/posts/project/</guid>
-      <description>Project 깃허브 업데이트 모니터링 시스템 개발  발주처: 코박(cobak.co.kr) 역할: Python 개발 기간: 2018.02 ~ 2018.02 참여인원: 1명 내용  등록된 Github 저장소들의 코드 수정 여부를 모니터링 하는 시스템. Crontab과 Github API등을 이용해서 정해진 시간마다 Github 저장소들의 정보를 읽어와서 DB에 저장. 웹을 통해서 Github 저장소들을 관리할 수 있도록 Django Admin과 연동하고 Command 추가.   역할: 개발 전부문  트위터 이벤트 랜딩페이지 개발  발주처: TheDream 참여인원: 1명 기간: 2015.01 ~ 2015.</description>
+      <description>Project 연구(IO최적화) 관련 SAGE: 확률 그래프 분석 프레임워크 설계 및 IO 최적화 연구   소속: 울산과학기술원
+  기간: 2017.09-2021.03
+  사용기술: C++, PThread, LibAIO, Boost.ASIO, HDFS
+  프로젝트 소개 박사과정 중 가장 많은 시간을 보낸 프로젝트로, 확률그래프 분석을 위한 프레임워크 설계 및 IO 최적화에 대한 연구입니다. 확률그래프 분석을 위해서는 연결 확률에 기반해서 다수의 샘플 그래프를 생성한 후, 각각의 샘플그래프에서 분석알고리즘이 진행됩니다. 그래서 많은 양의 샘플 그래프를 처리할수록 정확도가 향상될 수 있지만, 대용량의 메모리와 계산 자원이 필요하다는 문제가 있습니다.</description>
     </item>
     
     <item>
@@ -40,7 +43,7 @@
       <pubDate>Tue, 10 Nov 2020 05:34:16 +0000</pubDate>
       
       <guid>https://kckjn97.github.io/posts/profile/</guid>
-      <description>Profile Eunjae Lee (이은재)  Software Developer / Computer Science Researcher UNIST Ph.D candidate Email: kckjn97@gmail.com Github: github.com/kckjn97 Publication &amp;amp; Patent  Research Interests  Graph processing system Storage Distributed system Web development  Technical Skills  C/C++  PThread Linux Libaio Boost.Asio OpenCL   Python  Django   Java  Hadoop   Linux Kernel  Device-Mapper Software RAID NVMe Driver VFS   ETC  Git Docker    Education  Ph.</description>
+      <description>Profile Eunjae Lee (이은재)  UNIST Ph.D candidate (2021.08) Software Developer / Computer Science Researcher Email: kckjn97@gmail.com Github: github.com/kckjn97 Publication &amp;amp; Patent  Research Interests  Graph processing system Storage Distributed system Web development  Technical Skills  Programming Language  Major  C/C++, Python   Minor  Java, Javascript, Go, PHP, Bash     Experienced Library / Framework  Linux Kernel (Device-Mapper, Software RAID, NVMeDriver, VFS) Boost.</description>
     </item>
     
   </channel>

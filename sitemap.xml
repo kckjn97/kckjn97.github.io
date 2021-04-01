@@ -1,43 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://kckjn97.github.io/</loc>
-    <lastmod>2021-02-08T13:16:56+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-01T04:38:34+00:00</lastmod>
+  </url><url>
     <loc>https://kckjn97.github.io/posts/</loc>
-    <lastmod>2021-02-08T13:16:56+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-01T04:38:34+00:00</lastmod>
+  </url><url>
     <loc>https://kckjn97.github.io/posts/project/</loc>
-    <lastmod>2021-02-02T15:10:47+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-01T04:29:51+00:00</lastmod>
+  </url><url>
     <loc>https://kckjn97.github.io/posts/publications-patents/</loc>
     <lastmod>2021-02-08T12:01:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kckjn97.github.io/posts/portfolio/</loc>
     <lastmod>2021-02-02T11:47:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kckjn97.github.io/posts/profile/</loc>
-    <lastmod>2021-02-08T13:16:56+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-01T04:38:34+00:00</lastmod>
+  </url><url>
     <loc>https://kckjn97.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kckjn97.github.io/tags/</loc>
   </url>
-  
 </urlset>

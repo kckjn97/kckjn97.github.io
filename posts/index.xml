@@ -13,10 +13,7 @@
       <pubDate>Tue, 02 Feb 2021 11:33:46 +0000</pubDate>
       
       <guid>https://kckjn97.github.io/posts/project/</guid>
-      <description>Project 연구(IO최적화) 관련 SAGE: 확률 그래프 분석 프레임워크 설계 및 IO 최적화 연구   소속: 울산과학기술원
-  기간: 2017.09-2021.03
-  사용기술: C++, PThread, LibAIO, Boost.ASIO, HDFS
-  프로젝트 소개 박사과정 중 가장 많은 시간을 보낸 프로젝트로, 확률그래프 분석을 위한 프레임워크 설계 및 IO 최적화에 대한 연구입니다. 확률그래프 분석을 위해서는 연결 확률에 기반해서 다수의 샘플 그래프를 생성한 후, 각각의 샘플그래프에서 분석알고리즘이 진행됩니다. 그래서 많은 양의 샘플 그래프를 처리할수록 정확도가 향상될 수 있지만, 대용량의 메모리와 계산 자원이 필요하다는 문제가 있습니다.</description>
+      <description>Project  목차  연구 (IO최적화) 관련  SAGE: 확률 그래프 분석 프레임워크 설계 및 IO 최적화 연구 클라우드 환경을 위한 Persistent Memory 캐시 연구 차세대 NVMe 요소 기술 연구 디스크 기반 그래프엔진에서의 IO 최적화 및 캐시 기법 연구 멀티테넌트 환경에서 IO 비율을 조절하기 위한 스케쥴링 기법 연구 LeavO 캐시: SSD Cache와 HDD RAID5로 이루어진 하이브리드 스토리지에서의 캐시 기법 연구 DM-SRC: Log-Structured RAID 기반의 대용량 SSD Array 캐시 기법 연구 SSD의 FTL에서의 Extent Mapping 기법 연구 eSAP: 플래시의 신뢰도와 성능 향상을 위한 Chip-level RAID5 기법 연구   웹 / 백엔드 서버 개발 관련  가상화폐 커밋로그 모니터링 시스템 트위터 이벤트 실시간 랜딩페이지 워드프레스 기반 쇼핑몰 개발 오픈마켓 상품 모니터링 시스템 잇츠뷰: 체험형 블로그 리뷰 웹서비스 ErrClipse: 디버깅 기록을 위한 Eclipse 플러그인     연구(IO최적화) 관련 SAGE: 확률 그래프 분석 프레임워크 설계 및 IO 최적화 연구   소속: 울산과학기술원</description>
     </item>
     
     <item>
@@ -43,7 +40,7 @@
       <pubDate>Tue, 10 Nov 2020 05:34:16 +0000</pubDate>
       
       <guid>https://kckjn97.github.io/posts/profile/</guid>
-      <description>Profile Eunjae Lee (이은재)  UNIST Ph.D candidate (2021.08) Software Developer / Computer Science Researcher Email: kckjn97@gmail.com Github: github.com/kckjn97 Publication &amp;amp; Patent  Research Interests  Graph processing system Storage Distributed system Web development  Technical Skills  Programming Language  Major  C/C++, Python   Minor  Java, Javascript, Go, PHP, Bash     Experienced Library / Framework  Linux Kernel (Device-Mapper, Software RAID, NVMeDriver, VFS) Boost.</description>
+      <description>Profile Eunjae Lee (이은재)  UNIST Ph.D candidate (2021.08) Software Developer / Computer Science Researcher Email: kckjn97@gmail.com Github: github.com/kckjn97 Project Publication &amp;amp; Patent  Research Interests  Graph processing system Storage Distributed system Web development  Technical Skills  Programming Language  Major  C/C++, Python   Minor  Java, Javascript, Go, PHP, Bash     Experienced Library / Framework  Linux Kernel (Device-Mapper, Software RAID, NVMeDriver, VFS) Boost.</description>
     </item>
     
   </channel>
